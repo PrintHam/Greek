@@ -52,6 +52,9 @@
        line-height: 4.5vh;
    }
    .main-location__content-subheader{
-       font-size: 24px;
+       font-size: 28px;
+   }
+   .main-related__container{
+       padding-top: 5rem;
    }
 }
